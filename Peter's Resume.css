@@ -1,0 +1,175 @@
+body    {
+    background-color:#f5f3f3;
+}
+
+
+
+#name   {
+    font-size:40px;
+    font-weight:bold;
+    margin:10px;
+    margin-left:20%;
+    margin-right:20%;
+    border-bottom:1px solid black;
+
+}
+
+
+#img  {
+    margin-left:70%;
+    margin-top:-50px;
+    width:200px;
+    height:300px;
+    
+}
+
+img     {
+    width:200px;
+    height:300px;
+    border-radius:10%;
+    
+    
+}
+
+#contactinfo    {
+    max-width:75%;
+    margin-top:-260px;
+    margin-left:20%;
+    font-size:16px;
+      
+}
+
+#aboutme    {
+    font-size:20px;
+    font-style:italic;
+    margin-left:20%;
+    margin-right:30%;
+    
+    
+}
+
+
+
+
+
+#experience   {
+    font-size:30px;
+    margin-left:20%;
+    margin-top:170px;
+    
+    
+}
+
+#geospan     {
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:15px;
+    border-bottom:1px solid black;
+   
+}
+
+.position1  {
+    font-size:18px;
+    font-weight:bold;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:12px;
+      
+}
+
+#date1  {
+    float:right;
+    font-weight:normal;
+       
+}
+
+ul  {
+    margin-left:20%;
+    margin-right:20%;
+}
+
+
+
+
+#volunteer  {
+    font-size:30px;
+    margin-left:20%;
+    margin-top:30px;
+}
+
+#impactlives    {
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:15px;
+    border-bottom:1px solid black;
+}
+
+.position2  {
+    font-size:18px;
+    font-weight:bold;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:12px;
+}
+
+#date2  {
+    float:right;
+    font-weight:normal;
+       
+}
+
+
+
+
+#outwardbound   {
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:15px;
+    border-bottom:1px solid black;
+       
+}
+
+.position3  {
+    font-size:18px;
+    font-weight:bold;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:12px; 
+    
+}
+
+#date3  {
+    float:right;
+    font-weight:normal;
+       
+}
+
+
+#education  {
+    font-size:30px;
+    margin-left:20%;
+    margin-top:30px;
+}
+
+.owl  {
+    font-size:18px;
+    font-weight:bold;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:12px;
+}
+
+#date4  {
+    float:right;
+    font-weight:normal;
+       
+}
